@@ -1,0 +1,90 @@
+These are the data's:
+Certificates
+cold_email.txt
+Expected Questions.txt
+img.jfif
+Resume
+VVI Texts
+
+
+These are the data's:
+File->Certificates
+File->cold_email.txt
+File->Expected Questions.txt
+File->img.jfif
+File->Resume
+File->VVI Texts
+2023-03-11T08:39:00.667831100These are the data's:
+File->Certificates
+File->cold_email.txt
+File->Expected Questions.txt
+File->img.jfif
+File->Resume
+File->VVI Texts
+
+
+2023-03-11T08:39:48.960836
+These are the data's:
+File->Certificates
+File->cold_email.txt
+File->Expected Questions.txt
+File->img.jfif
+File->Resume
+File->VVI Texts
+These are the data's:
+File->Certificates
+File->cold_email.txt
+File->Expected Questions.txt
+File->img.jfif
+File->Resume
+File->VVI Texts
+These are the data's:
+File->Certificates
+File->Certificates
+File->cold_email.txt
+File->Expected Questions.txt
+File->img.jfif
+File->Resume
+File->Resume
+File->VVI Texts
+File->VVI Texts
+
+
+2023-03-11T08:44:55.991258900
+These are the data's:
+File->collections
+File->File operations
+File->t2.class
+File->t3.class
+File->test.class
+File->test.java
+
+
+2023-03-11T08:45:35.853580500
+These are the data's:
+File->collections
+File->File operations
+File->t2.class
+File->t3.class
+File->test.class
+File->test.java
+
+
+2023-03-11T12:03:28.573303700
+These are the data's:
+File->collections
+File->File operations
+File->t2.class
+File->t3.class
+File->test.class
+File->test.java
+
+
+2023-03-11T12:04:24.652893600
+These are the data's:
+Directory->collections
+Directory->File operations
+File->t2.class
+File->t3.class
+File->test.class
+File->test.java
